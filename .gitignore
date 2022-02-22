@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 # Avoid accidental upload of the Sketch and Figma design files
 #####################################################
 ## Please do not remove lines 5 and 6 - thanks! 🙂 ##
 #####################################################
 
+=======
+destination-titan.html
+*.sketch
+*.fig
+>>>>>>> 1b8e704be77ed6094e13235e3348e51e94975610
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################*.sketch *.fig
